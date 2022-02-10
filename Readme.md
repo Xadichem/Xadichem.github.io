@@ -1,5 +1,3 @@
-# This is my portfolio
-
 # Deployed Link
 
 https://xadichem.github.io/
